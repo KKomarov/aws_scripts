@@ -112,5 +112,5 @@ def run(fname):
 
 if __name__ == '__main__':
     # run_once('',
-    # '')
-    run('executions_cirmaz_2016-12-21.txt')
+    # 'executions.txt')
+    run('executions.txt')
